@@ -1,5 +1,7 @@
-**View in Colab:** https://colab.research.google.com/drive/1mtaxQI_1Kl7DKjcqqjP6QFMt2hrSFlJX?usp=sharing
+
 # Netflix Data Analysis — Content Insights & Trends
+
+**View in Colab:** https://colab.research.google.com/drive/1mtaxQI_1Kl7DKjcqqjP6QFMt2hrSFlJX?usp=sharing
 
 This project performs Exploratory Data Analysis (EDA) on Netflix titles to uncover patterns in content type, genre popularity, geographical contributions, and rating categories.  
 It provides visual insights into how Netflix's catalog has evolved over time.
