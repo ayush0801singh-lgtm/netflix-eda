@@ -77,6 +77,9 @@ netflix-eda
 
 If you find this useful, ⭐ the repo!
 
+## Machine Learning Extension
+A baseline ML model was added to classify Netflix titles as Movies or TV Shows using
+metadata features such as release year, duration, genres, and ratings.
 
 Tags:
 data-analysis eda netflix python visualization
